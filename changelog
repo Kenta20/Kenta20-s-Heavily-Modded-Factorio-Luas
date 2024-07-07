@@ -1,0 +1,18 @@
+7/6 - I'm addicted to programming now, I think
+
+Okay, so, programming is waywaywaywaywayway more complicated, even at the basic level, than I thought.  
+  
+I had An Idea for how to get red['zone-whatever'] to scan each count, then go to the next one, but damn was I wrong. I listed each and every zone name, and the name I WANTED to give them (for readability), which took forever (I'm using BZ Ores) since I THOUGHT I was THIS CLOSE every time I came up with a new idea, but noooooo, whatever implementation I thought of was so buggy and bad that it never went through one full cycle before breaking itself!
+
+So, I went to discover the magic of tables. And I do mean magic. Literal magic. I had no idea what I was reading for the first 50 stackoverflow posts. Or the Lua reference manual. Or the 1st edition of Programming in Lua. Magic. 
+
+Soo, I went to Factorio (y'know, the only reason I'm even doing any of this at all?)
+
+I went through the bin, core, mods, everything, just reading. Kinda sorta trying to make sense of any of it, but not trying too hard, since it's Real Programming, and I'm just trying to make a simple thing do a simple thing. 
+
+Something clicked. 7/5/24, something clicked. Nesting or obj1.obj2 or how obj = {} works or SOMETHING clicked. Suddenly, I could READ it. I don't understand a buuuunch of the terms, but I CAN READ IT?? I know how they get from point a to point b??
+
+The hard part is translating "OMG I CAN READ IT" to "I wrote the thing that does the thing." Working on that. 
+  It's like watching anime. I'm half Japanese, so I grew up with Japanese all around me, but I never actually LEARNED it, so I can get the general idea, but if you ask me "What did they just say?" the best I can do is "They're talking about, like, how Earth is doomed if the bad guy gets to the Moon, I think." Kinda like that. Couldn't repeat what they said if my life depended on it, but I think I can follow it??
+
+PS this is totally what a changelog is for right
